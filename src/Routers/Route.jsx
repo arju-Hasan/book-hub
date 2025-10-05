@@ -1,9 +1,7 @@
 import { createBrowserRouter } from "react-router";
-import { RouterProvider } from "react-router/dom";
 import Root from "../Pages/Roots/Root";
 import Error from "../Pages/ErrorPage/Error";
 import Home from "../Pages/Home/Home";
-import About from "../Pages/About/About";
 import BookDetails from "../Pages/BookDetails/BookDetails";
 import ReadList from "../Pages/ReadList/ReadList";
  
