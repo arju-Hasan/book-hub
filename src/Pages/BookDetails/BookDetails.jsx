@@ -19,7 +19,7 @@ const BookDetails = () => {
 
     return (
       <div className="grid grid-cols-1 md:grid-cols-2 m-5 ">
-        <div className="bg-[#F3F3F3] rounded-2xl ">
+        <div className="bg-[#F3F3F3] rounded-2xl px-4 ">
           <img
             className="w-120 rounded-2xl m-4 mx-auto"
             src={image}

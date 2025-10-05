@@ -29,7 +29,7 @@ const Book = ({singelBook}) => {
               {tags.map((tag, index) => (
                 <span
                   key={index}
-                  className="px-3 py-1 bg-gray-200 rounded-md text-sm font-medium"
+                  className="px-3 py-1 bg-gray-200 text-black rounded-md text-sm font-medium"
                 >
                   {tag}
                 </span>
